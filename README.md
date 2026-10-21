@@ -58,6 +58,9 @@ The SVM Classifier (RBF Kernel) achieved the highest accuracy at 85.86% with an 
 Future Improvements:
 Perform Hyperparameter Tuning (GridSearchCV) for SVM ($C$ and $\gamma$ values).
 Experiment with Ensemble algorithms like Random Forest and XGBoost.
-Deploy the best model as a web tool using Streamlit or Flask.👤 AuthorNikita RautAspiring Machine Learning Engineer & Data Scientist
+Deploy the best model as a web tool using Streamlit or Flask.
+
+👤 Author : Nikita Raut Misra
+Aspiring Machine Learning Engineer & Data Scientist
 
 GitHub: @AashwikaCreation
